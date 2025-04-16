@@ -25,7 +25,11 @@ train.head()
 **Modeling**
 
 1. linear regression model
-2. Lasso Regression
+2. Lasso Regression attribute selection
 
 **Evaluation**
+based on extensive analysis of used car data, we have found that the most important feature predicting price is "Year"
 
+Through model evaluation, the linear regression model with features including 'year' showed good model performance.
+
+As a result I would highly recommend going forward that you adjust your car inventory with a strong emphasis ensuring that The 'year' is the latest as possible.
